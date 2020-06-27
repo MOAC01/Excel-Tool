@@ -1,0 +1,18 @@
+G:\VSProject\Excel Tool\Excel Tool\bin\Debug\Excel Tool.exe
+G:\VSProject\Excel Tool\Excel Tool\bin\Debug\Excel Tool.pdb
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel_Tool.Properties.Resources.resources
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel Tool.csproj.GenerateResource.cache
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel Tool.csproj.CoreCompileInputs.cache
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel Tool.exe
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel Tool.pdb
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel_Tool.Form1.resources
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel Tool.csproj.ResolveComReference.cache
+G:\VSProject\Excel Tool\Excel Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel Tool.csproj.CopyComplete
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel_Tool.Form2.resources
+G:\VSProject\Excel Tool\Excel Tool\bin\Debug\Excel Tool.exe.config
+G:\VSProject\Excel Tool\Excel Tool\bin\Debug\NPOI.dll
+G:\VSProject\Excel Tool\Excel Tool\bin\Debug\NPOI.OOXML.dll
+G:\VSProject\Excel Tool\Excel Tool\bin\Debug\NPOI.OpenXml4Net.dll
+G:\VSProject\Excel Tool\Excel Tool\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\VSProject\Excel Tool\Excel Tool\obj\Debug\Excel Tool.csprojAssemblyReference.cache
